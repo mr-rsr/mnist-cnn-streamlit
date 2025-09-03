@@ -1,0 +1,10 @@
+
+
+setuptools
+wheel
+numpy
+pillow
+streamlit
+tensorflow-cpu
+streamlit-drawable-canvas
+matplotlib
